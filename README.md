@@ -23,7 +23,7 @@ Design a backend system that:
 
 - **Framework:** Django, Django REST Framework (DRF)
 - **Language:** Python
-- **Database:** MySQL / PostgreSQL
+- **Database:** MySQL
 - **Tools:** 
   - Postman (API testing)
   - Django Admin (User and data management)
