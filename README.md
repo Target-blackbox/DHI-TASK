@@ -29,10 +29,3 @@ Design a backend system that:
   - Django Admin (User and data management)
 
 ---
-
-## 🚀 Project Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/django-internship-project.git
-   cd django-internship-project
